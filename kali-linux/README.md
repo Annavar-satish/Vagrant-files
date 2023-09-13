@@ -6,4 +6,6 @@ vagrant up kali
 vagrant ssh kali
  #to delete kali VM
 vagrant destroy kali
+ #to stop kali VM
+vagrant halt kali
 ```
